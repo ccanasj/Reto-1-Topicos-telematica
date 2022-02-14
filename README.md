@@ -10,7 +10,7 @@ sudo apt-get install python
 ```
 Para Windows instale python desde su pagina oficial.
 
-[Descargar pythonpara Windows](https://www.python.org/downloads/)
+[Descargar python para Windows](https://www.python.org/downloads/)
 
 
 
@@ -32,3 +32,4 @@ Al finalizar python creara la carpeta archivos donde estaran todos los recursos 
 
 ## Demostración
 ![image](https://cdn.discordapp.com/attachments/942492158051622972/942636900399857664/unknown.png)
+![image](https://cdn.discordapp.com/attachments/942492158051622972/942637490903326730/unknown.png)
